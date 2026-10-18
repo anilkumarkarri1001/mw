@@ -1,0 +1,8 @@
+fastapi-rag-gemini/
+├── .env
+├── main.py
+├── requirements.txt
+└── routers/
+    ├── __init__.py
+    ├── upload.py
+    └── ask.py
